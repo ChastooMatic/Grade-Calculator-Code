@@ -1,6 +1,6 @@
 # 🎓 Academic Performance Evaluator
 
-A Python-based academic utility designed to evaluate and calculate student grades efficiently. Developed as part of the Programming Fundamentals and Logic Building Using Python curriculum in association with IBM.
+A Python-based academic utility that evaluates and calculates student grades efficiently. Developed as part of the Programming Fundamentals and Logic Building Using Python curriculum in association with IBM.
 
 ## 📑 Project Overview
 This command-line application takes a student's marks across five subjects, computes the total aggregate and percentage, and assigns a final grade based on standard academic thresholds. 
@@ -25,4 +25,4 @@ This command-line application takes a student's marks across five subjects, comp
 
 ## 👨‍💻 Author
 **Rupesh Kumar Sahu**  
-*Bachelor of Technology in Computer Science & Engineering with AI and ML*
+*Bachelor of Technology in Computer Science & Engineering with AI and ML by IBM*
